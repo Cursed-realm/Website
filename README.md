@@ -24,18 +24,15 @@
   </ul>
   <p>For more info : <a href="https://www.w3schools.com/js/default.asp">https://www.w3schools.com/js/default.asp</a></p>
   <section id="about">
-    <h2>About the Project</h2>
-    <p>
-      This website provides a brief overview of my project. Here, you'll find information about its goals, functionalities, and some key aspects.
-    </p>
+
   </section>
 
   <section id="features">
     <h2>Project Features</h2>
     <ul>
-      <li>Feature 1 description</li>
-      <li>Feature 2 description</li>
-      <li>Feature 3 description</li>
+      <li><i>Get the basic idea of HTML,CSS and JS.</i></li>
+      <li><i>Get to know how to add Headings, Paragraph, Links, etc in HTML.</i></li>
+      <li><i>Get to know how to make site more attractive and responsive.</i></li>
     </ul>
   </section>
 
@@ -52,7 +49,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2024 Your Name</p>
+    <p>&copy; 2024 Aditya Kumar Sharma</p>
   </footer>
 </body>
 </html>
